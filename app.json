@@ -1,0 +1,9 @@
+{
+  "name": "accessible_demo",
+  "displayName": "accessible_demo",
+  "expo": {
+    "sdkVersion": "36.0.0",
+    "name": "accessible_demo",
+    "slug": "accessibility-app"
+  }
+}
